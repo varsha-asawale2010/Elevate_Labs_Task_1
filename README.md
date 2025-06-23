@@ -50,7 +50,11 @@
 1521/tcp <br>3306/tcp</td><td>open </td> 
    <td> oracle<br>
     mysql</td></tr>
-  </table>
+    <tr>
+      <td>172.22.34.53
+      </td>
+<td>10001/tcp</td><td>open</td>  <td> scp-config</td>
+    </tr>  </table>
 </body>
 </html>
 
