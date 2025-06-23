@@ -2,7 +2,7 @@
 find out Local ip range <br>
 Command: nmap -sn 172.22.34.67/24 <br>
 Description:-sn: Ping scan — discover live hosts without port scanning.<br>
-Output-Link:
+Output-Link:https://github.com/varsha-asawale2010/Elevate_Labs_Task_1/blob/main/Scan_report.html
 <br>
 <!DOCTYPE html>
 <html>
