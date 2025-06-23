@@ -1,9 +1,13 @@
 # Elevate_Labs_Task_1
-find out Local ip range <br>
+1.find out Local ip range <br>
 Command: nmap -sn 172.22.34.67/24 <br>
 Description:-sn: Ping scan — discover live hosts without port scanning.<br>
 Output-Link:https://github.com/varsha-asawale2010/Elevate_Labs_Task_1/blob/main/Scan_report.html
 <br>
+2. TCP SYN Scan<br>
+Command: nmap -sS 172.22.34.67/24<br>
+Description:The -sS option in Nmap stands for a TCP SYN scan, also called a half-open scan.<br>
+Output-Link:
 <!DOCTYPE html>
 <html>
 <head>
