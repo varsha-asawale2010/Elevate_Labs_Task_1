@@ -20,6 +20,8 @@
       <td>23/tcp <br>80/tcp</td>
       <td>open</td>
        <td>telnet<br> http</td>
+    <tr>
+    </tr>
       
     </tr>
     
