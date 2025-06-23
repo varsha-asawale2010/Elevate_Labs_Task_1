@@ -24,15 +24,17 @@
       <td>172.22.34.3</td>
       <td>80/tcp<br>443/tcp<br>554/tcp <br>8000/tcp<br></td>
       <td>open</td>
-      <td>http<br>https<br>rtsp<br>http-alt</td>td
-    </tr>
+      <td>http<br>https<br>rtsp<br>http-alt</td>
+       </tr>
       <tr>
-    </tr>172.22.34.20</tr>
-    <tr>
-    135/tcp <br>139/tcp<br>445/tcp<br>3389/tcp<br>7070/tcp</tr>
-    <tr>open</tr>
-    <tr>msrpc<br>netbios-ssn<br>microsoft-ds<br>ms-wbt-server<br> realserver
-    </tr>
+    </td>172.22.34.20</td>
+    <td>
+    135/tcp <br>139/tcp<br>445/tcp<br>3389/tcp<br>7070/tcp</td>
+    <td>open</td>
+    <td>msrpc<br>netbios-ssn<br>microsoft-ds<br>ms-wbt-server<br> realserver
+    </td>
+  </tr>
+
   </table>
 </body>
 </html>
