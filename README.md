@@ -61,7 +61,22 @@
 3389/tcp </td><td>open</td> <td> ms-wbt-server</td></tr>
   <tr><td> 172.22.34.64</td>
 <td>5357/tcp</td><td>open</td>
-<td> wsdapi</td></tr></table>
+<td> wsdapi</td></tr>
+  <tr>
+  <td>172.22.34.65</td> <td>1027/tcp</td><td>open</td><td>IIS</td></tr>
+  <tr><td>172.22.34.72</td>
+  <td>2869/tcp</td>
+  <td>icslap</td></tr>
+  <tr>
+  <td>
+   172.22.34.111
+  </td><td>
+135/tcp <br> 5357/tcp<br>49152/tcp</td> <td>open</td> <td>  msrpc<br>  wsdapi
+<br> unknown</td></tr>
+  <tr>
+  <td>172.22.34.254</td>
+<td>80/tcp<br> 554/tcp </td> <td>open</td><td> http
+<br> rtsp</td></tr></table>
 </body>
 </html>
 
