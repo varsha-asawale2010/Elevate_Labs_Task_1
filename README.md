@@ -58,7 +58,10 @@
   <tr>
   <td> 172.22.34.54</td>
 <td>
-3389/tcp </td><td>open</td> <td> ms-wbt-server</td></tr></table>
+3389/tcp </td><td>open</td> <td> ms-wbt-server</td></tr>
+  <tr><td> 172.22.34.64</td>
+<td>5357/tcp</td><td>open</td>
+<td> wsdapi</td></tr></table>
 </body>
 </html>
 
