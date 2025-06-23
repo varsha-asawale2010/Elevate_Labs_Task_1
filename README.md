@@ -18,9 +18,11 @@
     <tr>
       <td>172.22.34.1</td>
       <td>23/tcp   </td>
-      <td>80/tcp</td>
       <td>open</td>
        <td>telnet</td>
+       <td>80/tcp</td>
+       <td>open</td>
+        <td>http</td>
     </tr>
     <tr>
        <td>172.22.34.1</td>
