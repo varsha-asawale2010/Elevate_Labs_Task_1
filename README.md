@@ -38,7 +38,7 @@
   <td> 172.22.34.12</td>
 <td>135/tcp<br> 139/tcp<br>445/tcp <br> 3389/tcp</td>
 <td>open</td>  
-<td>msrpc<br>
+<td>msrpc
 <br>  netbios-ssn
  <br>  microsoft-ds
 <br>  ms-wbt-server
