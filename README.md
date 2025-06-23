@@ -54,7 +54,11 @@
       <td>172.22.34.53
       </td>
 <td>10001/tcp</td><td>open</td>  <td> scp-config</td>
-    </tr>  </table>
+    </tr> 
+  <tr>
+  <td> 172.22.34.54</td>
+<td>
+3389/tcp </td><td>open</td> <td> ms-wbt-server</td></tr></table>
 </body>
 </html>
 
