@@ -26,8 +26,8 @@
       <td>open</td>
       <td>http<br>https<br>rtsp<br>http-alt</td>
        </tr>
-      <tr>
-    </td>172.22.34.20</td>
+    <tr>
+    <td>172.22.34.20</td>
     <td>
     135/tcp <br>139/tcp<br>445/tcp<br>3389/tcp<br>7070/tcp</td>
     <td>open</td>
