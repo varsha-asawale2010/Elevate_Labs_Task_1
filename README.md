@@ -48,7 +48,7 @@
 </td>
 <td>
 1521/tcp <br>3306/tcp</td><td>open </td> 
-    oracle<br>
+   <td> oracle<br>
     mysql</td></tr>
   </table>
 </body>
