@@ -31,11 +31,7 @@
     <tr>
     135/tcp <br>139/tcp<br>445/tcp<br>3389/tcp<br>7070/tcp</tr>
     <tr>open</tr>
-    <tr>msrpc
-netbios-ssn<br>
-   microsoft-ds<br>
- ms-wbt-server<br>
-  realserver
+    <tr>msrpc<br>netbios-ssn<br>microsoft-ds<br>ms-wbt-server<br> realserver
     </tr>
   </table>
 </body>
