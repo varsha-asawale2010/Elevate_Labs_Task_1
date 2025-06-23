@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Ip address and their open ports</title>
+  <tittle>Some Ip address and their open ports</tittle>
 </head>
 <body>
   <h2>Ip address and open ports</h2>
