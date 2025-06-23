@@ -1,5 +1,8 @@
 # Elevate_Labs_Task_1
-
+find out Local ip range <br>
+Command: nmap -sn 172.22.34.67/24 <br>
+Description:-sn: Ping scan — discover live hosts without port scanning.<br>
+Output-Link:
 <br>
 <!DOCTYPE html>
 <html>
