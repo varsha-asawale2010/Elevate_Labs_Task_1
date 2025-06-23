@@ -44,6 +44,12 @@
 <br>  ms-wbt-server
 </td>
 </tr>
+<td> 172.22.34.58
+</td>
+<td>
+1521/tcp <br>3306/tcp</td><td>open </td> 
+    oracle<br>
+    mysql</td></tr>
   </table>
 </body>
 </html>
