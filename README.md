@@ -66,6 +66,7 @@
   <td>172.22.34.65</td> <td>1027/tcp</td><td>open</td><td>IIS</td></tr>
   <tr><td>172.22.34.72</td>
   <td>2869/tcp</td>
+    <td>open</td>
   <td>icslap</td></tr>
   <tr>
   <td>
@@ -76,7 +77,13 @@
   <tr>
   <td>172.22.34.254</td>
 <td>80/tcp<br> 554/tcp </td> <td>open</td><td> http
-<br> rtsp</td></tr></table>
+<br> rtsp</td></tr>
+  <tr>
+  <td>
+   172.22.34.67</td>
+<td>5357/tcp<br>16992/tcp</td>
+<td>open</td> <td>  wsdapi<br>  amt-soap-http</td>
+  </tr></table>
 </body>
 </html>
 
