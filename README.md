@@ -22,13 +22,8 @@
        <td>telnet<br> http</td>
       
     </tr>
-    <tr>
-       <td>172.22.34.3</td>
-      <td>80/tcp <br>443/tcp <br>554/tcp  <br>  8000/tcp  </td>
-     <td>open<td>
-   <td> http<br>https <br> rtsp<br> http-alt</td>
-    </tr>
+    
   </table>
 </body>
-</html> `
+</html>
 
